@@ -1,4 +1,4 @@
-[![Himanshu Prajapati Banner](https://capsule-render.vercel.app/api?type=rect&color=0:701a75,100:be185d&height=160&text=Himanshu%20Prajapati&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=19&descAlignY=68&descColor=ffffff)](https://github.com/Himanshu-Prajapati-25)
+[![Himanshu Prajapati Banner](./banner.png)](https://github.com/Himanshu-Prajapati-25)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
