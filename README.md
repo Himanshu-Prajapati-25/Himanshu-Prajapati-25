@@ -86,7 +86,7 @@ AI-powered business management platform for Indian MSMEs — CRM, sales, invento
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Prajapati-25&theme=tokyonight&hide_border=true&background=1e1b2e&ring=be185d&fire=be185d)
 
-### 👥 Followers & Following
+### 👥 Followers on GitHub
 
 [![Followers](https://img.shields.io/github/followers/Himanshu-Prajapati-25?label=Followers&style=for-the-badge&color=701a75&logo=github&logoColor=white)](https://github.com/Himanshu-Prajapati-25?tab=followers)
 
