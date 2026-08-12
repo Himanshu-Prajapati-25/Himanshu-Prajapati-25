@@ -1,11 +1,4 @@
-<div align="center"><a href="https://github.com/himanshuprajapati"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:be185d&height=250&section=header&text=Himanshu%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=19&descAlignY=60&descAlign=50" width="100%"/></a></div><div align="center"><a href="https://www.linkedin.com/in/himanshuprajapati2025">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:hp5122006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.instagram.com/iam.himanshu.0">
-<img src="https://img.shields.io/badge/Instagram-FF9933?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a></div>---
-[![](https://capsule-render.vercel.app/api?type=rect&color=0:701a75,100:be185d&height=150&text=Himanshu%20Prajapati&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=65&descColor=ffffff)](https://github.com/himanshuprajapati)
+[![](https://capsule-render.vercel.app/api?type=rect&color=0:701a75,100:be185d&height=150&text=Himanshu%20Prajapati&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=65&descColor=ffffff)](https://github.com/Himanshu-Prajapati-25)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
@@ -75,9 +68,7 @@ AI-powered business management platform for Indian MSMEs — CRM, sales, invento
 
 **Team StackVolt · Hackathon Project**
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshuprajapati&theme=tokyonight&hide_border=true&background=1e1b2e&ring=be185d&fire=be185d)
+<p align="right"><em>📅 Last Updated: August 12, 2026</em></p>
 
 ## 🤝 Let's Connect
 
