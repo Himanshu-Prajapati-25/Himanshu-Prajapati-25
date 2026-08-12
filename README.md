@@ -12,7 +12,7 @@ role: Aspiring Backend & AI Engineer
 education: B.Tech in Information Technology
 college: Chaudhary Charan Singh University, Meerut
 team:
-  - Technical Progress Head & Backend/AI Developer @ Team StackVolt
+  - Technical Progress Head and Backend & AI Developer @ Team StackVolt
 current_focus:
   - Python, Django, PyTorch, NumPy
   - DSA with Python
@@ -20,7 +20,7 @@ current_focus:
   - Git / GitHub workflows
 long_term_interests:
   - Artificial Intelligence
-  - Machine Learning / AI
+  - Machine Learning & AI
   - Large Language Models (LLMs)
   - Backend & AI Development
 philosophy: "Continuous learning, clean code, and growth through collaboration."
