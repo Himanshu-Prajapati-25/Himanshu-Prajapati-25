@@ -36,21 +36,15 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 ## 🛠️ Tech Stack
 
-![](https://skillicons.dev/icons?i=c,python,java,js,html,git,github,vscode,django,pytorch,numpy&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,django,pytorch,numpy&theme=dark)
 
-**Languages:**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Tools:**
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Learning Now:**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -79,10 +73,13 @@ AI-powered business management platform for Indian MSMEs — CRM, sales, invento
 [![Followers](https://img.shields.io/github/followers/Himanshu-Prajapati-25?label=Followers&style=for-the-badge&color=701a75&logo=github&logoColor=white)](https://github.com/Himanshu-Prajapati-25?tab=followers)
 [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHimanshu-Prajapati-25&label=Following&query=%24.following&style=for-the-badge&color=be185d&logo=github&logoColor=white)](https://github.com/Himanshu-Prajapati-25?tab=following)
 
+*(These badges pull live data from the GitHub API each time they're viewed — no manual updates needed.)*
 
 ## 🤝 Let's Connect
 
 I'm always open to hackathon teams, open-source collaboration, and backend/AI internship opportunities.
+
+> Building in public, one commit at a time. Agar aap open-source, hackathons, ya backend/AI par kaam karte hain — let's build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
