@@ -74,6 +74,13 @@ AI-powered business management platform for Indian MSMEs — CRM, sales, invento
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Prajapati-25&theme=tokyonight&hide_border=true&background=1e1b2e&ring=be185d&fire=be185d)
 
+### 👥 Followers & Following
+
+[![Followers](https://img.shields.io/github/followers/Himanshu-Prajapati-25?label=Followers&style=for-the-badge&color=701a75&logo=github&logoColor=white)](https://github.com/Himanshu-Prajapati-25?tab=followers)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHimanshu-Prajapati-25&label=Following&query=%24.following&style=for-the-badge&color=be185d&logo=github&logoColor=white)](https://github.com/Himanshu-Prajapati-25?tab=following)
+
+*(These badges pull live data from the GitHub API each time they're viewed — no manual updates needed.)*
+
 ## 🤝 Let's Connect
 
 I'm always open to hackathon teams, open-source collaboration, and backend/AI internship opportunities.
