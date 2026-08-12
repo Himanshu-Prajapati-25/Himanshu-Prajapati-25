@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:701a75,100:be185d&height=220&section=header&text=Himanshu%20Prajapati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20%26%20AI%20Engineer%20%7C%20Team%20StackVolt&descAlign=50&descAlignY=55)](https://github.com/himanshuprajapati)
+[![](https://capsule-render.vercel.app/api?type=rect&color=0:701a75,100:be185d&height=150&text=Himanshu%20Prajapati&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=65&descColor=ffffff)](https://github.com/himanshuprajapati)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
@@ -81,4 +81,3 @@ I'm always open to hackathon teams, open-source collaboration, and backend/AI in
 [![Instagram](https://img.shields.io/badge/Follow-FF9933?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.himanshu.0)
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:701a75&height=100&section=footer)](#)
-
