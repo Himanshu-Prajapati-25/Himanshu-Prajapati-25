@@ -27,11 +27,17 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 ```
 
 - 🎓 B.Tech in Information Technology, Chaudhary Charan Singh University, Meerut
+
 - 🤝 **Technical Progress Head & Backend/AI Developer** at **Team StackVolt**
+
 - 💻 Building backend systems and exploring AI-driven applications
+
 - 🏆 Active hackathon contributor — sharpening backend architecture & problem-solving under deadlines
+
 - 🌱 Currently strengthening: Python, Django, DSA, PyTorch, NumPy
+
 - 🎯 Long-term goal: become a strong Backend & AI Engineer, contribute to open source, and build impactful products
+
 - ✨ I value consistency, clear communication, and quality over quantity
 
 ## 🛠️ Tech Stack
