@@ -1,7 +1,7 @@
 [![Himanshu Prajapati Banner](./banner.png)](https://github.com/Himanshu-Prajapati-25)
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=github.com/Himanshu-Prajapati-25.png&w=200&h=200&mask=circle&border=4,be185d" width="150" height="150" alt="Himanshu Prajapati"/>
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FHimanshu-Prajapati-25.png&w=200&h=200&fit=cover&mask=circle&border=4,be185d" width="150" height="150" alt="Himanshu Prajapati"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
