@@ -1,3 +1,10 @@
+<div align="center"><a href="https://github.com/himanshuprajapati"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:be185d&height=250&section=header&text=Himanshu%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=19&descAlignY=60&descAlign=50" width="100%"/></a></div><div align="center"><a href="https://www.linkedin.com/in/himanshuprajapati2025">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:hp5122006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.instagram.com/iam.himanshu.0">
+<img src="https://img.shields.io/badge/Instagram-FF9933?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a></div>---
 [![](https://capsule-render.vercel.app/api?type=rect&color=0:701a75,100:be185d&height=150&text=Himanshu%20Prajapati&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20IT%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=65&descColor=ffffff)](https://github.com/himanshuprajapati)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
