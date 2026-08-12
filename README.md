@@ -1,5 +1,9 @@
 [![Himanshu Prajapati Banner](./banner.png)](https://github.com/Himanshu-Prajapati-25)
 
+<p align="center">
+  <img src="https://github.com/Himanshu-Prajapati-25.png" width="150" height="150" style="border-radius:50%;border:4px solid #be185d;" alt="Himanshu Prajapati"/>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF9933?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.himanshu.0)
