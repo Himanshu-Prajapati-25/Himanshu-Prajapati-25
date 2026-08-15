@@ -18,7 +18,7 @@ college: Chaudhary Charan Singh University, Meerut
 team:
   - Technical Progress Head and Backend & AI Developer @ Team StackVolt
 current_focus:
-  - Python, Django, PyTorch, NumPy
+  - Python, Django, PyTorch, NumPy, TensorFlow
   - DSA with Python
   - Responsive Web Projects
   - Git / GitHub workflows
@@ -38,7 +38,7 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 - 🏆 Active hackathon contributor — sharpening backend architecture & problem-solving under deadlines
 
-- 🌱 Currently strengthening: Python, Django, DSA, PyTorch, NumPy
+- 🌱 Currently strengthening: Python, Django, DSA, PyTorch, NumPy, Tensorflow
 
 - 🎯 Long-term goal: become a strong Backend & AI Engineer, contribute to open source, and build impactful products
 
@@ -59,6 +59,7 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 
 **Languages:**
@@ -78,6 +79,7 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Exploring:**
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square)
