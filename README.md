@@ -83,7 +83,7 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square)
 ![ML](https://img.shields.io/badge/-Machine%20Learning-06B6D4?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-10B981?style=flat-square)
-
+![GenAI](https://img.shields.io/badge/-Gen%20AI-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
 ## 🚀 Featured Project
 
