@@ -7,11 +7,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF9933?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.himanshu.0)
-<br>
+<br></br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=700&lines=B.Tech+IT+Second+Year+Student.;Aspiring+Backend+%26+AI+Engineer.;Backend+developer+%40+Team+StackVolt+%E2%9A%A1%EF%B8%8F;Building+Real-World+%F0%9F%9A%80+Projects.;Hackathon+%F0%9F%8F%86+Builder" />
 </p>
-<br>
+<br></br>
+
 ## 🧭 About Me
 
 ```yaml
