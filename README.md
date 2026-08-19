@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuprajapati2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hp5122006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF9933?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.himanshu.0)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-world+products%2C+not+tutorials;Second-Year+B.Tech+IT+Student;Full+Stack+Developer+%7C+Hackathon+Builder;Founder+mindset+%7C+Open+Source+Contributor" />
 
 ## 🧭 About Me
 
