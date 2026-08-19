@@ -96,9 +96,8 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 AI-powered business management platform for Indian MSMEs — CRM, sales, inventory, HR, finance & invoicing under a single conversational AI interface.
 
-**Team StackVolt · Hackathon Project**
+**Team StackVolt · Hackathon 🏆 Builders**
 
-<p align="right"><em>📅 Last Updated: August 12, 2026</em></p>
 
 ## 📊 GitHub Stats
 
